@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgeorgethomas007
 - 👀 I’m interested in web development and programming. 
-- 🌱 I’m currently learning the basics of web dev (HTML, CSS, Javascript) along with C# and Python.
+- 🌱 I’m currently learning the basics of web dev (HTML, CSS, Javascript) along with PHP, C# and Python.
 - 📫 Reach me at georgethomas.mgt@gmail.com 
 
 <!---
